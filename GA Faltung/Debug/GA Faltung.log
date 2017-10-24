@@ -1,0 +1,13 @@
+﻿  GeneticAlgorithm.cpp
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(400): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(401): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(403): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(404): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(419): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(420): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(422): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(715): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(827): warning C4715: "GeneticAlgorithm::RandomDirection": Nicht alle Steuerelementpfade geben einen Wert zurück.
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(908): warning C4715: "GeneticAlgorithm::MutateDirection": Nicht alle Steuerelementpfade geben einen Wert zurück.
+c:\users\deadmanni\desktop\termin 6\ga faltung\ga faltung\geneticalgorithm.cpp(848): warning C4715: "GeneticAlgorithm::RandomCardinalDirection": Nicht alle Steuerelementpfade geben einen Wert zurück.
+  GA Faltung.vcxproj -> C:\Users\DeadManni\Desktop\TERMIN 6\GA Faltung\Debug\GA Faltung.exe
